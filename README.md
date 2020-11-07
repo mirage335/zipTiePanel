@@ -15,12 +15,12 @@ Some plausible applications include...
 
 May also be used for strings, belts, pulleys, bowden cables, etc.
 
-Please keep in mind this panel by itself is an OEM industrial product to be used by knowledgable individuals - beware all safety considerations and lack of warranty.
+Please keep in mind this panel by itself is an OEM industrial product to be used by knowledgeable individuals - beware all safety considerations and lack of warranty.
 
 
 # Usage
 
-A zip tie tightening tool is *strongly recommended*. Set to *tightening tension to maximum*.
+A zip tie tightening tool is *strongly recommended*. Set *tightening tension to maximum*.
 
 https://amazon.com/dp/B01B1EFM1U
 
@@ -40,14 +40,14 @@ Nylon zip ties offer tensile strength, holding force, compactness, and tool acce
 
 # Safety
 
-Please keep in mind the designs here are intended as OEM parts to be used by knowledgable individuals, are NOT intended as any kind of consumer products, and are specifically NOT intended for building/residential wiring. Any consumer products, services, or other applications using these parts will require appropriate due dilligence to ensure safety and compliance with relevant best practices.
+Please keep in mind the designs here are intended as OEM parts to be used by knowledgeable individuals, are intended NOT as any kind of consumer products, and are specifically intended NOT for building/residential wiring. Any consumer products, services, or other applications using these parts will require appropriate due diligence to ensure safety and compliance with relevant best practices.
 
 Reputable 63/37 rosin core leaded solder ~0.05in/~1mm is strongly recommended wherever permissible for any kind of wire splices. Environmental and financial cost of individual solder joints made by best materials and practices is usually far lower than the risk of failure.
 
 
 
 (fine print)
-Lead-free solder is often too hazardous to use even with extensive due dilligence and/or the best factory assembly practices, particularly if ever under -13degC, vacuum, mechanical stress, or other factors which may not be scientifically known. Lead-free solder requirements cause failures that can simultaneously overwhelm all redundancy. Tin whiskers and tin pest can cause fire, exposed high-voltage, uncontrolled motion, complete data loss, and total capital equipment loss, among other hazards. If lead-free solder is strictly required in 'outdoor', 'cryogenic', HVAC, automotive, or similar applications, the lead-free solder may be too hazardous to attempt repair rather than replacement. No known additives (eg. antimony, bismuth) other than large percentages (>60%) of lead offer siginificant improvement. Some research suggests tin pest may be mitigated at moderate temperature (~ -40degC) by a combination of thermal cycling and complete exclusion of any crytalline forming substances including oxygen, hydrogen, water, germainium. Mitigation of tin pest or tin whisker defects can only be relied upon after decades of conclusive scientific testing with a leaded solder control under extreme conditions. Heat-shrink tubing, electrical tape, and other covering, cannot mitigate lead-free solder failure modes, as tin pest if not tin whisker growth cannot be ruled out.
+Lead-free solder is often too hazardous to use even with extensive due diligence and/or the best factory assembly practices, particularly if ever under -13degC, vacuum, mechanical stress, or other factors which may not be scientifically known. Lead-free solder requirements cause failures that can simultaneously overwhelm all redundancy. Tin whiskers and tin pest can cause fire, exposed high-voltage, uncontrolled motion, complete data loss, and total capital equipment loss, among other hazards. If lead-free solder is strictly required in 'outdoor', 'cryogenic', HVAC, automotive, or similar applications, the lead-free solder may be too hazardous to attempt repair rather than replacement. No known additives (eg. antimony, bismuth) other than large percentages (>60%) of lead offer significant improvement. Some research suggests tin pest may be mitigated at moderate temperature (~ -40degC) by a combination of thermal cycling and complete exclusion of any crytalline forming substances including oxygen, hydrogen, water, germainium. Mitigation of tin pest or tin whisker defects can only be relied upon after decades of conclusive scientific testing with a leaded solder control under extreme conditions. Heat-shrink tubing, electrical tape, and other covering, cannot mitigate lead-free solder failure modes, as tin pest if not tin whisker growth cannot be ruled out.
 
 High-lead (85%) solder bars may be an allowable, safer, and less hazardous, alternative to lead-free solder.
 
@@ -84,8 +84,9 @@ No claim of liability is made by anyone. Your accident is your accident. Use com
 
 # Reference
 
-https://github.com/mirage335/PatchRap
 https://github.com/mirage335/wirewrap_huge
+
+https://github.com/mirage335/PatchRap
 
 https://github.com/mirage335/PatchRap_to_CNC
 https://github.com/mirage335/PatchRap_LulzBot

@@ -1,0 +1,3 @@
+[submodule "wirewrap_huge"]
+	path = wirewrap_huge
+	url = git@github.com:mirage335/wirewrap_huge.git
